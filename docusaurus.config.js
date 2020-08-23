@@ -12,47 +12,14 @@ module.exports = {
       title: 'QuangSon',
       logo: {
         alt: 'QuangSon Logo',
-        src: 'img/logo.jpg',
+        src: 'img/logo.png',
       },
       items: [
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/quangson91',
-          label: 'GitHub',
-          position: 'right',
-        },
+        { to: 'blog', label: 'Blog', position: 'left' },
       ],
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/users/3205503/quangson91',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/quangson91',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/quangson91',
-            },
-          ],
-        },
-      ],
       copyright: `Copyright © ${new Date().getFullYear()} QuangSon. Built with Docusaurus.`,
     },
   },
@@ -61,7 +28,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         blog: {
-          showReadingTime: true
+          showReadingTime: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
