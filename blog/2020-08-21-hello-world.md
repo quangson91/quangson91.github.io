@@ -11,6 +11,4 @@ tags:
 ---
 Hello world!
 
-:smile:
-
 My personal website!
