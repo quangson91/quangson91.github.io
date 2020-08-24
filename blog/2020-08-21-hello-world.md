@@ -9,6 +9,8 @@ tags:
 - hello
 
 ---
-Hello world! 
+Hello world!
+
+:smile:
 
 My personal website!
