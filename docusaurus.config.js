@@ -16,6 +16,7 @@ module.exports = {
       },
       items: [
         { to: 'blog', label: 'Blog', position: 'left' },
+        { to: 'projects', label: 'Projects', position: 'left' },
       ],
     },
     footer: {
