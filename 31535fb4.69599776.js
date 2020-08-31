@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{63:function(t,n,i){"use strict";i.r(n),i.d(n,"default",(function(){return o}));var e=i(0),c=i.n(e);function o(){return Object(e.useEffect)((function(){window.location="https://restcli.github.io"}),[]),c.a.createElement("div",null,"Redirecting to: https://restcli.github.io")}}}]);
