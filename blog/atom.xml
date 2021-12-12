@@ -13,7 +13,8 @@
         <link href="https://quangson91.github.io/blog/2020/08/21/hello-world"/>
         <updated>2020-08-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello world!]]></summary>
-        <content type="html"><![CDATA[<p>Hello world!</p><p>My personal website!</p>]]></content>
+        <content type="html"><![CDATA[<p>Hello world!</p><p>My personal website!</p><p>I&#x27;m writing my post in the github issues.
+Check <a href="https://github.com/quangson91/quangson91.github.io/issues">my blog posts here.</a></p>]]></content>
         <author>
             <name>QuangSon</name>
             <uri>https://github.com/quangson91</uri>
