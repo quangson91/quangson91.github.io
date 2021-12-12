@@ -12,3 +12,7 @@ tags:
 Hello world!
 
 My personal website!
+
+I'm writing my post in the github issues.
+Check [my blog posts here.](https://github.com/quangson91/quangson91.github.io/issues)
+

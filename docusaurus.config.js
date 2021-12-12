@@ -21,7 +21,7 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} QuangSon. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} QuangSon.`,
     },
   },
   presets: [
