@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>QuangSon Blog</title>
+        <link>https://quangson91.github.io/blog</link>
+        <description>QuangSon Blog</description>
+        <lastBuildDate>Fri, 21 Aug 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hello]]></title>
+            <link>https://quangson91.github.io/blog/2020/08/21/hello-world</link>
+            <guid>/2020/08/21/hello-world</guid>
+            <pubDate>Fri, 21 Aug 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello world!]]></description>
+            <content:encoded><![CDATA[<p>Hello world!</p><p>My personal website!</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

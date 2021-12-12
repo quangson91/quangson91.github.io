@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquangson_91_github_io=self.webpackChunkquangson_91_github_io||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello","permalink":"/blog/2020/08/21/hello-world"}]}')}}]);
