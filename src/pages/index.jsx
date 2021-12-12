@@ -19,9 +19,7 @@ function UserProfile({ username }) {
               />
               <div className="avatar__intro">
                 <h4 className="avatar__name">{username}</h4>
-                <small className="avatar__subtitle">
-                  I am programmer, OSS lover.
-                </small>
+                <small className="avatar__subtitle">I am programmer, OSS lover.</small>
               </div>
             </div>
           </div>
@@ -34,8 +32,22 @@ function UserProfile({ username }) {
           </div>
           <div className="card__footer">
             <div className="button-group button-group--block">
-              <a href="https://github.com/quangson91" rel="noreferrer" target="_blank" className="button button--secondary">Github</a>
-              <a href="https://twitter.com/quangson91" rel="noreferrer" target="_blank" className="button button--secondary">Twitter</a>
+              <a
+                href="https://github.com/quangson91"
+                rel="noreferrer"
+                target="_blank"
+                className="button button--secondary"
+              >
+                Github
+              </a>
+              <a
+                href="https://twitter.com/quangson91"
+                rel="noreferrer"
+                target="_blank"
+                className="button button--secondary"
+              >
+                Twitter
+              </a>
             </div>
           </div>
         </div>
