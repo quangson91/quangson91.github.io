@@ -13,8 +13,8 @@
             <guid>/2020/08/21/hello-world</guid>
             <pubDate>Fri, 21 Aug 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello world!]]></description>
-            <content:encoded><![CDATA[<p>Hello world!</p><p>My personal website!</p><p>I&#x27;m writing my post in the github issues.
-Check <a href="https://github.com/quangson91/quangson91.github.io/issues">my blog posts here.</a></p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Hello world!</p><p>My personal website!</p><p>I&#x27;m writing my post in the github discussions.
+Check <a href="https://github.com/quangson91/quangson91.github.io/discussions">my blog posts here.</a></p>]]></content:encoded>
         </item>
     </channel>
 </rss>
